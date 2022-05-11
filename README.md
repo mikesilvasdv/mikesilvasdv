@@ -1,6 +1,6 @@
 - 👋 Olá!! Me chamo Maik, Bem vindo(a) ao meu GitHub!
 - 
-- 👀 Tenho interesse em Front-end e almejo futuramente ser Fullstack.
+- 👀 Eu gosto muito do Front-end e almejo futuramente ser Fullstack.
 - 
 - 🌱 No momento eu estou aprendendo lógica de programação com JS. Tenho conhecimento em HTML, CSS e um pouco de Python.
 - Amo aprender coisas novas na prática e estou disposto a aprender o que for necessário.
@@ -11,7 +11,7 @@
 - 
 - -👋 Hello there! I’m Maik, Welcome to my GitHub!
 - 
-- 👀 I’m really like Front-end and i will be a Fullstack developer.
+- 👀 I really like Front-end and i will be a Fullstack developer.
 - 
 - 🌱 I’m currently learning logic programming with JavaScript, i have some experience with HTML, CSS and a little bit of Python.
 - I love learn new things by doing it and i'm excited to learn more and more!
