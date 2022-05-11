@@ -14,9 +14,10 @@
 - 👀 I’m really like Front-end and i will be a Fullstack developer.
 - 
 - 🌱 I’m currently learning logic programming with JavaScript, i have some experience with HTML, CSS and a little bit of Python.
-I love learn new things by doing it and i'm excited to learn more and more!
-
+- I love learn new things by doing it and i'm excited to learn more and more!
+-
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/maik-silva-30b9a81b1/
+-
 
 <!---
 mikesilvasdv/mikesilvasdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
