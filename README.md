@@ -2,7 +2,7 @@
 - 
 - 👀 Eu gosto muito do Front-end e almejo futuramente ser Fullstack.
 - 
-- 🌱 No momento eu estou aprendendo lógica de programação com JS. Tenho conhecimento em HTML, CSS e um pouco de Python.
+- 🌱 No momento eu estou aprendendo lógica de programação com JS. Tenho conhecimento em HTML, CSS, JavaScript e um pouco de Python.
 - Amo aprender coisas novas na prática e estou disposto a aprender o que for necessário.
 - 
 - 📫 Você pode entrar em contato comigo pelo meu LinkedIn: https://www.linkedin.com/in/maik-silva-30b9a81b1/
@@ -13,7 +13,7 @@
 - 
 - 👀 I really like Front-end and i will be a Fullstack developer.
 - 
-- 🌱 I’m currently learning logic programming with JavaScript, i have some experience with HTML, CSS and a little bit of Python.
+- 🌱 I’m currently learning logic programming with JavaScript, i have some experience with HTML, CSS, JavaScript and a little bit of Python.
 - I love learn new things by doing it and i'm excited to learn more and more!
 -
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/maik-silva-30b9a81b1/
